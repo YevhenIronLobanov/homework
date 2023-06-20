@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT(JOB_ID)) AS Vacancies FROM  employees;
